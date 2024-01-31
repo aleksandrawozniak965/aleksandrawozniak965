@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aleksandra.wozniak965@gmail.com**
 
-- ⚡ Fun fact **I used to be dance teacher 💃**
+- ⚡ Fun fact **I used to be a dance teacher 💃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
