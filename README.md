@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandrawozniak965&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandrawozniak965" /> </p>
 
-- 🌱 I’m currently learning **Node.js, React Native, TypeScript**
+- 🌱 I’m currently learning **Redux Toolkit**
 
 - 📫 How to reach me **aleksandra.wozniak965@gmail.com**
 
